@@ -13,9 +13,9 @@ You can see the radio field in AR(Augmented Reality).
 
 !!!![https://youtu.be/LzDLyCjDgJU](https://youtu.be/nCk2y98Kfto)
 
-This software has many improvements.
-But I'd like to have experience for many people.
-So I released the app with alpha version.
+This software has lots of room of improvements.
+But I hope to have this AR experience for many people.
+I released this app as alpha version.
 
 This is free software, please use it at your own risk.
 
@@ -54,14 +54,16 @@ https://play.google.com/store/apps/details?id=marto.rtl_tcp_andro
 
 #### 3. Check to work properly RTL-SDR on your device.
 
-I recommend RTL-SDR is work collectly usin this app.
+I recommend to check working the RTL-SDR with your device before using this app.
+
+This is the one of the app with RTL-SDR.
 
 https://play.google.com/store/apps/details?id=com.mantz_it.rfanalyzer&hl=en&gl=US
 
 #### 4.Install RadioFieldAR
-This app can't be installed from the google play store.
+I'm sorry this app can't be installed from the google play store.
 
-You can install using APK file in github.
+You can install using APK file on the github.
 
 Please see here for details.
 https://www.lifewire.com/install-apk-on-android-4177185
