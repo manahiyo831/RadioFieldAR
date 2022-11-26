@@ -11,7 +11,7 @@ You can see the radio field in AR(Augmented Reality).
 
 !!!!There is a video introducing this app on youtube.
 
-!!!!https://youtu.be/LzDLyCjDgJU
+!!!![https://youtu.be/LzDLyCjDgJU](https://youtu.be/nCk2y98Kfto)
 
 This software has many improvements.
 But I'd like to have experience for many people.
@@ -20,7 +20,7 @@ So I released the app with alpha version.
 This is free software, please use it at your own risk.
 
 ## Required environment
-A smartphone that supports ARCORE.
+### ・A smartphone that supports ARCORE.
 
 You can check this web site.
 
@@ -40,7 +40,7 @@ SHARP AQUOS sense6
   
 ### ・OTG USB cable
 
-There are many kinds. I have used this one.
+There are many kinds of things. I have used this one.
   
 #### https://www.amazon.co.jp/gp/product/B08LH1K2HF
 
@@ -72,6 +72,11 @@ https://www.teradas.net/archives/6078/
 There are a lot of infomation on web site.
 
 Then you can run this app.
+
+#### 4.Print the image for tracking.
+
+You can use this image.
+
 
 
 ## How to use
