@@ -17,7 +17,11 @@ This software has lots of room of improvements.
 But I hope to have this AR experience for many people.
 I released this app as alpha version.
 
+RF performance is depend on the RTL-SDR.
+Maybe meeasured value is not collect as absolute level.
+
 This is free software, please use it at your own risk.
+
 
 ## Required environment
 ### ・A smartphone that supports ARCORE.
