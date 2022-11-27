@@ -1,4 +1,4 @@
-# -Sorry currently under construction-
+# Sorry currently under construction 
 
 # RadioFieldAR
 RadioFieldAR
@@ -16,7 +16,7 @@ You can see the radio field in AR(Augmented Reality).
 
 This software has lots of room of improvements.
 
-But I hope to have this AR experience for many people.
+But first, I hope to have this AR experience for many people.
 
 I released this app as alpha version.
 
@@ -49,7 +49,7 @@ There are many kinds of things. I have used this one.
   
 #### https://www.amazon.co.jp/gp/product/B08LH1K2HF
 
-### Printed picture for tracking
+### An antenna with printed picture for tracking
 
 Plese use this one. The size should be 50mm*50mm.
 https://nomad-saving.com/wp-content/uploads/2016/03/NASA5-1-768x512.jpg
