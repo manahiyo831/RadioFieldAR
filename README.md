@@ -88,11 +88,12 @@ https://www.teradas.net/archives/6078/
 
 ## How to use
 まずアプリを立ち上げるとカメラの許可が表示されるので許可してください。
-![camera](https://user-images.githubusercontent.com/83148498/204123799-9bbd0e55-470e-4004-8a8c-50e07c675827.png)
+![camera](https://user-images.githubusercontent.com/83148498/204124012-45b7cf8f-7b43-4d71-851c-9e543337242a.png)
 ドライバ動作の画面が表示されます。
 ![driver](https://user-images.githubusercontent.com/83148498/204123991-405e173d-08d5-4dd8-9066-01b051b10d35.png)
 その後スペクトルとカメラ画面になります。
-！！！ここに画像
+![start](https://user-images.githubusercontent.com/83148498/204124115-36458705-b78a-47de-9927-84aa036e719e.png)
+
 
 始めに測定する部分の空間を認識させるため、スマートフォンをゆっくり動かしながら
 周りの空間を撮影してください。これをすることで、空間に座標が作成されます。
