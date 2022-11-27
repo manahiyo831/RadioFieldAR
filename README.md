@@ -1,5 +1,8 @@
 # RadioFieldAR
 
+This app is based on the software that introducing by following movie. 
+But I modified some function for release.
+https://youtu.be/nCk2y98Kfto
 
 ## Description
 
@@ -41,7 +44,7 @@ https://www.rtl-sdr.com/
 
 There are many kinds of things. I have used this one.
   
-#### https://www.amazon.co.jp/gp/product/B08LH1K2HF
+https://www.amazon.co.jp/gp/product/B08LH1K2HF
 
 ### An antenna with printed picture for tracking
 
@@ -99,6 +102,7 @@ ARCore requires visual information from the camera to build an environmental und
 Rapid device movement can cause the camera image to become blurry, reducing ARCore's ability to track and detect features.
 During brief periods of movement, ARCore relies on IMU data to estimate the device pose. When movement stops, visual tracking resumes.
 Avoid extended periods of rapid movement, which can cause ARCore to lose tracking and prevent detection of features.
+
 https://developers.google.com/ar/develop/runtime
 
 ![start_camera](https://user-images.githubusercontent.com/83148498/204124305-82d17741-a274-453f-8280-bf6740bc7563.png)
