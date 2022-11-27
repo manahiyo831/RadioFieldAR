@@ -54,9 +54,12 @@ There are many kinds of things. I have used this one.
 Plese use this one. The size should be 50mm*50mm.
 https://nomad-saving.com/wp-content/uploads/2016/03/NASA5-1-768x512.jpg
 
+You can use the PC or smartphone screen instead.
+But tracking performance would be decreased.
+
 ## How to install
 
-#### 2. To install RTL-SDR driver with SideQest.
+#### 2. To install RTL-SDR driver
 This app needs RTL-SDR driver.
 
 So you can install the driver from google play.
@@ -75,15 +78,14 @@ I'm sorry this app can't be installed from the google play store.
 
 You can install using APK file on the github.
 
-Please see here for details.
+Please refer to these web site for details.
+
 https://www.lifewire.com/install-apk-on-android-4177185
 
 JAPANESE
+
 https://www.teradas.net/archives/6078/
 
-There are a lot of infomation on web site.
-
-Then you can run this app.
 
 #### 4.Print the image for tracking.
 
