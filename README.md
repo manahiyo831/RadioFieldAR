@@ -49,9 +49,6 @@ Plese use this one. The size should be around 50mm*50mm.
 
 https://nomad-saving.com/wp-content/uploads/2016/03/NASA5-1-768x512.jpg
 
-You can use the smartphone screen instead.
-But tracking performance may be decreased.
-
 ## How to install
 
 #### 1. To install RTL-SDR driver
