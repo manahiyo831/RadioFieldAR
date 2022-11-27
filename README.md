@@ -19,7 +19,7 @@ This software has lots of room of improvements.
 
 But I hope to have this AR experience for many people first.
 
-I released this app as the alpha version.
+So I released this app as the alpha version.
 
 Of cource the RF performance is depend on the RTL-SDR.
 
