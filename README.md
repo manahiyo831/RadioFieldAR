@@ -1,7 +1,6 @@
 # Sorry currently under construction 
 
 # RadioFieldAR
-RadioFieldAR
 
 
 ## Description
@@ -9,10 +8,6 @@ RadioFieldAR
 This software is for RTL-SDR.
 
 You can see the radio field in AR(Augmented Reality).
-
-!!!!There is a video introducing this app on youtube.
-
-!!!![https://youtu.be/LzDLyCjDgJU](https://youtu.be/nCk2y98Kfto)
 
 This software has lots of room of improvements.
 
@@ -61,14 +56,14 @@ But tracking performance may be decreased.
 
 ## How to install
 
-#### 2. To install RTL-SDR driver
+#### 1. To install RTL-SDR driver
 This app needs RTL-SDR driver.
 
 So you can install the driver from google play.
 
 https://play.google.com/store/apps/details?id=marto.rtl_tcp_andro
 
-#### 3. Check to work properly RTL-SDR on your device.
+#### 2. Check to work properly RTL-SDR on your device.
 
 I recommend to check working the RTL-SDR with your device before using this app.
 
@@ -76,7 +71,7 @@ This is the one of the app with RTL-SDR.
 
 https://play.google.com/store/apps/details?id=com.mantz_it.rfanalyzer&hl=en&gl=US
 
-#### 4.Install RadioFieldAR
+#### 3.Install RadioFieldAR
 I'm sorry this app can't be installed from the google play store.
 
 You can install using APK file on the github.
