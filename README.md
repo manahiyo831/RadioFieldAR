@@ -31,7 +31,7 @@ You can check this web site.
 
 https://developers.google.com/ar/devices
 
-(FYI) I confirmed to work on the following devices.
+(FYI) I checked to work on the following devices.
 
 SONY SOV38
 
@@ -54,8 +54,8 @@ There are many kinds of things. I have used this one.
 Plese use this one. The size should be 50mm*50mm.
 https://nomad-saving.com/wp-content/uploads/2016/03/NASA5-1-768x512.jpg
 
-You can use the PC or smartphone screen instead.
-But tracking performance would be decreased.
+You can use the PC or smartphone's screen instead.
+But tracking performance may be decreased.
 
 ## How to install
 
@@ -87,13 +87,23 @@ JAPANESE
 https://www.teradas.net/archives/6078/
 
 
-#### 4.Print the image for tracking.
-
-You can use this image.
-
-
-
 ## How to use
+まずアプリを立ち上げるとドライバ動作の画面が表示されます。
+その後スペクトルとカメラ画面になります。
+
+始めに測定する部分の空間を認識させるため、スマートフォンをゆっくり動かしながら
+周りの空間を撮影してください。これをすることで、空間に座標が作成されます。
+次にカメラで認識用イメージを撮影してください。認識されると星がイメージの中心に表示され
+スマートフォンやイメージを動かしても宇移住するのが確認できます。
+急激に動かすと追従が追い付かないのでゆっくり動かしてください。
+
+次に測定対象の周波数を設定します。受信レベルに応じてゲインは調整してください。
+サイズとグリッドは測定エリアに応じて調整してください。
+狭いところを見る場合は小さく、広いところを見るには大きくします。
+スタートボタンを押すと認識されているイメージの場所にFOGを描画していきます。
+×ボタンを押すとクリアされます。
+
+
 
 
 
