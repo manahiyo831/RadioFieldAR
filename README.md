@@ -87,8 +87,10 @@ JAPANESE
 https://www.teradas.net/archives/6078/
 
 ## How to use
-まずアプリを立ち上げるとドライバ動作の画面が表示されます。
-！！！ここに画像
+まずアプリを立ち上げるとカメラの許可が表示されるので許可してください。
+![camera](https://user-images.githubusercontent.com/83148498/204123799-9bbd0e55-470e-4004-8a8c-50e07c675827.png)
+ドライバ動作の画面が表示されます。
+![driver](https://user-images.githubusercontent.com/83148498/204123954-216e51a9-7c62-4540-9afa-b7915011dc94.png)
 その後スペクトルとカメラ画面になります。
 ！！！ここに画像
 
