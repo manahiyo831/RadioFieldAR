@@ -17,11 +17,11 @@ https://youtu.be/nCk2y98Kfto
 
 This software has lots of room of improvements.
 
-But first, I hope to have this AR experience for many people.
+But I hope to have this AR experience for many people first.
 
-I released this app as alpha version.
+I released this app as the alpha version.
 
-Also RF performance is depend on the RTL-SDR.
+Of cource the RF performance is depend on the RTL-SDR.
 
 This is free software, please use it at your own risk.
 
