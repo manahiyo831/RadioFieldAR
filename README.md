@@ -34,7 +34,7 @@ You can check this web site.
 
 https://developers.google.com/ar/devices
 
-(FYI) I checked to work on the following devices.
+(FYI) I checked to work with the following devices.
 
 SONY SOV38
 
@@ -56,7 +56,7 @@ Plese use this one. The size should be around 50mm*50mm.
 
 https://nomad-saving.com/wp-content/uploads/2016/03/NASA5-1-768x512.jpg
 
-You can use the PC or smartphone's screen instead.
+You can use the smartphone screen instead.
 But tracking performance may be decreased.
 
 ## How to install
@@ -65,6 +65,7 @@ But tracking performance may be decreased.
 This app needs RTL-SDR driver.
 
 So you can install the driver from google play.
+
 https://play.google.com/store/apps/details?id=marto.rtl_tcp_andro
 
 #### 3. Check to work properly RTL-SDR on your device.
@@ -93,30 +94,29 @@ First, you start the app. And give permission for camera.
 
 ![camera](https://user-images.githubusercontent.com/83148498/204124012-45b7cf8f-7b43-4d71-851c-9e543337242a.png)
 
-Then you can see the screen that driver starting.
+Then you will see the screen that driver starting.
 
 ![driver](https://user-images.githubusercontent.com/83148498/204124203-1a2f9386-4ad4-4996-ab41-611c94f1161e.png)
 
-After that the screen show like this.
+After that, the screen is like this.
 
 ![start](https://user-images.githubusercontent.com/83148498/204124237-abbfe6e8-de32-450e-9446-b3bfa4bccc41.png)
 
-始めに測定する部分の空間を認識させるため、スマートフォンをゆっくり動かしながら
-周りの空間を撮影してください。これをすることで、空間に座標が作成されます。
-次にカメラで認識用イメージを撮影してください。認識されると星がイメージの中心に表示され
-スマートフォンやイメージを動かしても追従するのが確認できます。
-急激に動かすと追従が追い付かないのでゆっくり動かしてください。
+First, it is necessary to aim the camera slowly around the measurement object for the app recognize the surrounding environment.
+
+[important]
+ARCore requires visual information from the camera to build an environmental understanding. 
+Rapid device movement can cause the camera image to become blurry, reducing ARCore's ability to track and detect features.
+During brief periods of movement, ARCore relies on IMU data to estimate the device pose. When movement stops, visual tracking resumes.
+Avoid extended periods of rapid movement, which can cause ARCore to lose tracking and prevent detection of features.
 
 ![start_camera](https://user-images.githubusercontent.com/83148498/204124305-82d17741-a274-453f-8280-bf6740bc7563.png)
 
-次に測定対象の周波数を設定します。受信レベルに応じてゲインは調整してください。
-サイズとグリッドは測定エリアに応じて調整してください。
+You can set frequency and gain. 
+The size and grid value also can be changed.
 
 ![setting](https://user-images.githubusercontent.com/83148498/204124383-b47e04c9-7838-4e8f-ad4d-7126d164117c.png)
 
-
-狭いところを見る場合は小さく、広いところを見るには大きくします。
-スタートボタンを押すと認識されているイメージの場所にFOGを描画していきます。
 ×ボタンを押すとクリアされます。
 
 ![start_camera2](https://user-images.githubusercontent.com/83148498/204124347-2654d4c4-808a-40e6-bc46-769b88ca7254.png)
