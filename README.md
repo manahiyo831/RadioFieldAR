@@ -114,7 +114,8 @@ The size and grid value also can be changed.
 
 ![setting](https://user-images.githubusercontent.com/83148498/204124383-b47e04c9-7838-4e8f-ad4d-7126d164117c.png)
 
-×ボタンを押すとクリアされます。
+The play button is used for start and stop.
+The cross mark is for clear the measurement result.
 
 ![start_camera2](https://user-images.githubusercontent.com/83148498/204124347-2654d4c4-808a-40e6-bc46-769b88ca7254.png)
 
