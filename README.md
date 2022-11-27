@@ -15,23 +15,23 @@ You can see the radio field in AR(Augmented Reality).
 !!!![https://youtu.be/LzDLyCjDgJU](https://youtu.be/nCk2y98Kfto)
 
 This software has lots of room of improvements.
+
 But I hope to have this AR experience for many people.
+
 I released this app as alpha version.
 
-RF performance is depend on the RTL-SDR.
-Maybe meeasured value is not collect as absolute level.
+Also RF performance is depend on the RTL-SDR.
 
 This is free software, please use it at your own risk.
 
-
 ## Required environment
-### ・A smartphone that supports ARCORE.
+### A smartphone that supports ARCORE.
 
 You can check this web site.
 
 https://developers.google.com/ar/devices
 
-(FYI) I confirmed working this app below device.
+(FYI) I confirmed to work on the following devices.
 
 SONY SOV38
 
@@ -39,15 +39,20 @@ SHARP AQUOS sense4
 
 SHARP AQUOS sense6
 
-### ・RTL-SDR
+### RTL-SDR
 
-#### https://www.rtl-sdr.com/
+https://www.rtl-sdr.com/
   
-### ・OTG USB cable
+### OTG USB cable
 
 There are many kinds of things. I have used this one.
   
 #### https://www.amazon.co.jp/gp/product/B08LH1K2HF
+
+### Printed picture for tracking
+
+Plese use this one. The size should be 50mm*50mm.
+https://nomad-saving.com/wp-content/uploads/2016/03/NASA5-1-768x512.jpg
 
 ## How to install
 
