@@ -54,7 +54,8 @@ There are many kinds of things. I have used this one.
 
 ### An antenna with printed picture for tracking
 
-Plese use this one. The size should be 50mm*50mm.
+Plese use this one. The size should be around 50mm*50mm.
+
 https://nomad-saving.com/wp-content/uploads/2016/03/NASA5-1-768x512.jpg
 
 You can use the PC or smartphone's screen instead.
