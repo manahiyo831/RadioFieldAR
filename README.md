@@ -1,5 +1,11 @@
 # RadioFieldAR
 
+## Description
+
+This software is for RTL-SDR.
+
+You can see the radio field in AR(Augmented Reality).
+
 This app is based on the software that introducing by following movie. 
 
 But I modified some function for this release.
@@ -8,12 +14,6 @@ https://youtu.be/nCk2y98Kfto
 
 ![meas](https://user-images.githubusercontent.com/83148498/204128193-465ca9d4-eb96-4696-8462-3510307bcade.png)
 ![meas2](https://user-images.githubusercontent.com/83148498/204128203-c6b19222-81a9-4162-be59-7ded732d3277.png)
-
-## Description
-
-This software is for RTL-SDR.
-
-You can see the radio field in AR(Augmented Reality).
 
 This software has lots of room of improvements.
 
